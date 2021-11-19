@@ -1,12 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-
 <Body>
    <section class="section">
       <div class="container">
          <div class="row">
             <div class="col text-center">
-               <h2> Country-based interactive map with fatality data and activities victims before attack occured: </h2>
+               <h2 "text-center"> Country-based interactive map with fatality data and activities victims before attack occured: </h2>
             </div>
          </div>
       </div>
