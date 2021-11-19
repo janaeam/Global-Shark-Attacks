@@ -3,7 +3,7 @@
       <div class="container">
          <div class="row">
             <div class="col-lg-12 text-center">
-               <h2> Map of fatality status and activity performed before attack by country: </h2>
+               <h2> Country of victim, fatality status and activity performed before attack: </h2>
             </div>
          </div>
       </div>
