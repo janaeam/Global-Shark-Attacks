@@ -2,7 +2,7 @@
 Using Machine Learning to help educate the public and save the shark population
 
 # Global Interactive Map
- **View interactive map [here](https://janaeam.github.io/global-shark-attacks-and-map/)**
+ **View interactive map [here](https://janaeam.github.io/Global-Shark-Attacks-and-Map/)**
 
 > Click on the numbered icons in the area of your choice. The number on the icons represents the amount of attacks for that area/country. Continue clicking on the icon
 until a blue circle or many blue circles appear. Each blue circle represents an individual shark attack. A popup will appear with the **COUNTRY** that the attack took 
@@ -12,7 +12,7 @@ place in, the **ACTIVITY** the person was engaged in before the attack ocurred a
 
 
 # Data Wrangling
-(complete description of data cleaning processes are explained in detail in the [ipynb file](https://github.com/janaeam/global-shark-attacks-and-map/blob/main/Shark_Attack_Data.ipynb))
+(complete description of data cleaning processes are explained in detail in the [ipynb file](https://github.com/janaeam/Global-Shark-Attacks-and-Map/blob/main/Shark_Attack_Data.ipynb))
 
 ## Challenges:
 * The original datset included dates as far back as 1010 BC.
