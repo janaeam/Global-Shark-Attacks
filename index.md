@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html lang="en">
+
 <Body>
    <section class="section">
       <div class="container">
