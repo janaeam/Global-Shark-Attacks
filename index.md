@@ -3,7 +3,7 @@
       <div class="container">
          <div class="row">
             <div class="col-lg-12 text-center">
-               <h3> Interactive map with fatality data and victim's activity before attack occured: </h3>
+               <h2> Interactive map with fatality data and victim's activity before attack occured: </h2>
             </div>
          </div>
       </div>
